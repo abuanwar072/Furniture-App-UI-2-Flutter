@@ -1,6 +1,6 @@
-# Furniture App - Flutter UI
+# Furniture App - Responsive Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/bkR7naR1efA)
+## [Watch it on YouTube](https://youtu.be/8uLI8ade1aA)
 
 - [x] Responsive UI
 - [x] Fetch Data From API
@@ -15,6 +15,6 @@ We design a responsive furniture app UI using flutter, all of the data come from
 
 ### Furniture App Final UI
 
-![Preview](/gif.gif)
+![Preview](/Intro.gif)
 
 ![App UI](/ui.png)
